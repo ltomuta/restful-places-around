@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="CustomToolBar.qml">../qml/symbian/CustomToolBar.qml</file>
+        <file alias="FilterBar.qml">../qml/symbian/FilterBar.qml</file>
+        <file alias="InfoPage.qml">../qml/symbian/InfoPage.qml</file>
+        <file alias="main.qml">../qml/symbian/main.qml</file>
+        <file alias="PlaceDetailsPage.qml">../qml/symbian/PlaceDetailsPage.qml</file>
+        <file alias="PlacesListPage.qml">../qml/symbian/PlacesListPage.qml</file>
+        <file alias="PlacesMapPage.qml">../qml/symbian/PlacesMapPage.qml</file>
+        <file alias="SplashScreen.qml">../qml/symbian/SplashScreen.qml</file>
+        <file alias="info.png">../images/info.png</file>
+        <file alias="symbian-toolbar.png">../images/symbian_toolbar.png</file>
+    </qresource>
+</RCC>

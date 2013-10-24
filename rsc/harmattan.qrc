@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="FilterBar.qml">../qml/harmattan/FilterBar.qml</file>
+        <file alias="InfoPage.qml">../qml/harmattan/InfoPage.qml</file>
+        <file alias="ListItem.qml">../qml/harmattan/ListItem.qml</file>
+        <file alias="main.qml">../qml/harmattan/main.qml</file>
+        <file alias="PlaceDetailsPage.qml">../qml/harmattan/PlaceDetailsPage.qml</file>
+        <file alias="PlacesListPage.qml">../qml/harmattan/PlacesListPage.qml</file>
+        <file alias="PlacesMapPage.qml">../qml/harmattan/PlacesMapPage.qml</file>
+        <file alias="SearchBox.qml">../qml/harmattan/SearchBox.qml</file>
+        <file alias="SplashScreen.qml">../qml/harmattan/SplashScreen.qml</file>
+        <file alias="clear.png">../images/clear.png</file>
+        <file alias="harmattan-toolbar.png">../images/harmattan_toolbar.png</file>
+        <file alias="info.png">../images/info-dark.png</file>
+        <file alias="list-icon.png">../images/icon-m-toolbar-list-selected.png</file>
+        <file alias="list-icon-inv.png">../images/icon-m-toolbar-list.png</file>
+    </qresource>
+</RCC>

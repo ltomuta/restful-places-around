@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="Bubble.qml">../qml/common/Bubble.qml</file>
+        <file alias="HereIndicator.qml">../qml/common/HereIndicator.qml</file>
+        <file alias="PannableMap.qml">../qml/common/PannableMap.qml</file>
+        <file alias="PlaceItem.qml">../qml/common/PlaceItem.qml</file>
+        <file alias="PlacesMap.qml">../qml/common/PlacesMap.qml</file>
+        <file alias="CommonFunctions.js">../qml/common/CommonFunctions.js</file>
+        <file alias="Constants.js">../qml/common/Constants.js</file>
+        <file alias="MarkerCreator.js">../qml/common/MarkerCreator.js</file>
+        <file alias="RouteDrawer.js">../qml/common/RouteDrawer.js</file>
+        <file alias="bubble.png">../images/bubble.png</file>
+        <file alias="here-icon.png">../images/here-icon.png</file>
+        <file alias="here-icon-gray.png">../images/here-icon-gray.png</file>
+        <file alias="n-marker.png">../images/n-marker.png</file>
+    </qresource>
+</RCC>
